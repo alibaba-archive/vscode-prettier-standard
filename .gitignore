@@ -57,3 +57,6 @@ typings/
 # dotenv environment variables file
 .env
 
+# from `yo code`
+.vscode-test/
+.vsix
