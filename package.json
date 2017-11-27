@@ -28,15 +28,15 @@
         }]
     },
     "scripts": {
+        "pretty": "prettier-standard *.js test/*.js",
         "postinstall": "node ./node_modules/vscode/bin/install",
         "test": "node ./node_modules/vscode/bin/test"
     },
     "devDependencies": {
-        "typescript": "^2.6.1",
-        "vscode": "^1.1.6",
         "eslint": "^4.6.1",
-        "@types/node": "^7.0.43",
-        "@types/mocha": "^2.2.42"
+        "prettier-standard": "^7.0.3",
+        "typescript": "^2.6.1",
+        "vscode": "^1.1.6"
     },
     "dependencies": {
         "eslint-config-standard": "^10.2.1",
