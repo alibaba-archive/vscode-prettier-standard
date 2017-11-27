@@ -10,6 +10,7 @@
     "categories": [
         "Formatters"
     ],
+    "icon": "icon.png",
     "activationEvents": [
         "onLanguage:javascript",
         "onCommand:extension.prettierDocument",
