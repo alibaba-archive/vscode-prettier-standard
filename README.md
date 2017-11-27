@@ -4,6 +4,8 @@ VS Code package to format your Javascript using [Prettier](https://prettier.io/)
 ## Installation
 Install through VS Code extensions. Search for `Prettier-Standard - JavaScript formatter`
 
+[Prettier-Standard - JavaScript formatter - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=iSayme.vscode-prettier-standard)
+
 Can also be installed using
 ```
 ext install prettier-vscode
