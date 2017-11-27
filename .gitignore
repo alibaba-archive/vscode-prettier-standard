@@ -59,4 +59,4 @@ typings/
 
 # from `yo code`
 .vscode-test/
-.vsix
+*.vsix
