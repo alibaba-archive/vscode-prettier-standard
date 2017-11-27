@@ -44,5 +44,13 @@
         "eslint-plugin-promise": "^3.6.0",
         "eslint-plugin-standard": "^3.0.1",
         "prettier-eslint": "^8.2.2"
-    }
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/teambition/vscode-prettier-standard.git"
+    },
+    "bugs": {
+        "url": "https://github.com/teambition/vscode-prettier-standard/issues"
+    },
+    "homepage": "https://github.com/teambition/vscode-prettier-standard"
 }
