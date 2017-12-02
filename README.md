@@ -19,3 +19,8 @@ OR
 1. Select the text you want to Prettify
 2. CMD + Shift + P -> Format Selection
 ```
+
+### Using StatusBar Extension
+Click this button
+
+![show extension buttion](./extensionPreview.jpeg)
